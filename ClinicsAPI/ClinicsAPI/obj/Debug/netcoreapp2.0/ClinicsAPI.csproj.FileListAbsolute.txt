@@ -1,0 +1,11 @@
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\bin\Debug\netcoreapp2.0\ClinicsAPI.deps.json
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\bin\Debug\netcoreapp2.0\ClinicsAPI.runtimeconfig.json
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\bin\Debug\netcoreapp2.0\ClinicsAPI.runtimeconfig.dev.json
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\bin\Debug\netcoreapp2.0\ClinicsAPI.dll
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\obj\Debug\netcoreapp2.0\ClinicsAPI.csprojResolveAssemblyReference.cache
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\obj\Debug\netcoreapp2.0\ClinicsAPI.csproj.CoreCompileInputs.cache
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\obj\Debug\netcoreapp2.0\ClinicsAPI.AssemblyInfoInputs.cache
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\obj\Debug\netcoreapp2.0\ClinicsAPI.AssemblyInfo.cs
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\bin\Debug\netcoreapp2.0\ClinicsAPI.pdb
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\obj\Debug\netcoreapp2.0\ClinicsAPI.dll
+C:\Users\das\source\repos\ClinicsAPI\ClinicsAPI\obj\Debug\netcoreapp2.0\ClinicsAPI.pdb
